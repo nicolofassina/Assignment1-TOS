@@ -3,4 +3,5 @@ Panini:
 	Primavera
 	Vegetariano
 Primi:
+	Olive Ascolane
 Paninoteca Padovana
