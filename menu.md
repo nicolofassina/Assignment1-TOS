@@ -3,4 +3,5 @@ Panini:
 	Primavera
 	Vegetariano
 Primi:
+	Arancini
 Paninoteca Padovana
